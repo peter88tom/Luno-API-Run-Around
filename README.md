@@ -1,4 +1,4 @@
-# Playing_With_Luno_API
+# Integrating Luno API using Python
 During the play we will rock with:
 - Creating a Luno Account
 - Authenticating through the API
